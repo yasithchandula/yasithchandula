@@ -3,6 +3,12 @@
 
 I am a software engineering undergraduate at SLIIT. I'm passionate about learning new things, discovering new technology and applying them to existing things, and increasing their efficiency and performance. I'm interested in web development, Mobile app development, Full-stack development, and Cloud computing. 
 
+ ### 🤝🏻 Find me on:
+  <div>
+    <a href="https://www.linkedin.com/in/yasith-chandula-7a8a63211/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+
 
 <!--
 **yasithchandula/yasithchandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
