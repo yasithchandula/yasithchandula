@@ -1,5 +1,9 @@
 ### Hi there 👋
-### IT20211646 - yasithchandula
+### I'm Yasith Chandula (IT20211646)
+##
+
+I am a software engineering undergraduate at SLIIT. I'm passionate about learning new things, discovering new technology and applying them to existing things, and increasing their efficiency and performance. I'm interested in web development, Mobile app development, Full-stack development, and Cloud computing. 
+
 
 <!--
 **yasithchandula/yasithchandula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
