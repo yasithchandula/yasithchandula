@@ -8,6 +8,12 @@ I am a software engineering undergraduate at SLIIT. I'm passionate about learnin
     <a href="https://www.linkedin.com/in/yasith-chandula-7a8a63211/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    <a href="https://www.facebook.com/yasith.chandula">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    </a> <br>
+    <a href="mailto:chandulayasith@gmail.com?">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 
 
 <!--
