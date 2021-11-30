@@ -22,7 +22,7 @@ I am a software engineering undergraduate at SLIIT. I'm passionate about learnin
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasithchandula=blue-green)
 
-  ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sxchintha&layout=compact&langs_count=8&theme=algolia)
+  ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasithchandula&layout=compact&langs_count=8&theme=algolia)
 
   <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
