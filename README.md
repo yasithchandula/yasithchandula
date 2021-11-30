@@ -20,7 +20,7 @@ I am a software engineering undergraduate at SLIIT. I'm passionate about learnin
    ### ⚙️ GitHub Analytics:
   <div>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sxchintha&theme=blue-green)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasithchandula=blue-green)
 
   ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sxchintha&layout=compact&langs_count=8&theme=algolia)
 
